@@ -9,3 +9,6 @@ Content filtering:
 Collaborative filtering:
 
 *   Collaborative filtering takes user-user similarity into account instead of user-item. Implemented neural network in sense of matrix factorization. No information about content of the movies has been used.   
+
+
+More clarification and updates will be made later.
